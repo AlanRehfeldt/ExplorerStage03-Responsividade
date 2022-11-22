@@ -9,10 +9,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
 https://user-images.githubusercontent.com/101195591/203335239-f3afb146-5482-4e76-9a61-1d9c8444f866.mp4
-</p>
-
 
 ## 🚀 Tecnologias
 
